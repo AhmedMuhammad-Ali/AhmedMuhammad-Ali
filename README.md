@@ -21,6 +21,15 @@
 <a href="https://postman.com" target="_blank" > <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 <a href="https://insomnia.rest/" target="_blank" > <img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" alt="insomnia" width="40" height="40"/> </a> 
 </p>
+
+![Ahmed's GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=AhmedMuhammad-Ali)
+
+<h3>Medium published articles</h3>
+
+<ul>
+  <li>  <a target="_blank" href="https://medium.com/@ahmedmuhammad.aliamin/method-dispatch-techniques-in-swift-25286825378b"> 🔖 Method Dispatch Techniques in Swift</a>. </li>
+</ul>
+
 <h3>Where to find me</h3>
 <p>
 <a href="https://www.linkedin.com/in/ahmed-ali-92807a143/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
@@ -28,4 +37,3 @@
 <a href="https://twitter.com/AhmedAmin_95" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
 <a href="https://github.com/AhmedMuhammad-Ali" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 </p>
-![Ahmed's GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=AhmedMuhammad-Ali)
