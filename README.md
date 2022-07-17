@@ -22,7 +22,7 @@
 <a href="https://insomnia.rest/" target="_blank" > <img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" alt="insomnia" width="40" height="40"/> </a> 
 </p>
 
-![Ahmed's GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=AhmedMuhammad-Ali)
+<p> <img src="https://github-readme-stats.vercel.app/api?username=AhmedMuhammad-Ali&show_icons=true&theme=gotham" alt="AhmedMuhammad-Ali"/>
 
 <h3>Medium published articles</h3>
 
