@@ -21,7 +21,6 @@
 <a href="https://postman.com" target="_blank" > <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 <a href="https://insomnia.rest/" target="_blank" > <img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" alt="insomnia" width="40" height="40"/> </a> 
 </p>
-<p> <img src="https://github-readme-stats.vercel.app/api?username=AhmedMuhammad-Ali&show_icons=true&theme=gotham" alt="AhmedMuhammad-Ali"/>
 
 <h3>Medium published articles</h3>
 
